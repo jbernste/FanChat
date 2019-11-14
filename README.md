@@ -1,3 +1,3 @@
-# chat-example
+# Fan Chat app using socket io
 
 
